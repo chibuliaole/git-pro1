@@ -6,5 +6,6 @@ public class Main {
         System.out.println("hello gitte");
         System.out.println("hello idea");
         System.out.println("test");
+        System.out.println("master");
     }
 }
